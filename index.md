@@ -17,6 +17,10 @@ Syntax highlighted code block
 - Bulleted
 - List
 
+# Favorite things about CS193
+- everybody is super friendly
+- Everything is super new to me
+- Makes me feel tech savvy
 1. Numbered
 2. List
 
