@@ -1,5 +1,6 @@
 
-Ryogo Funabiki's First CS193 Homework# 
+Ryogo Funabiki's First CS193 Homework
+# 
 Hello World!!
 
 ### Markdown
