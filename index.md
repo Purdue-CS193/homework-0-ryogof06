@@ -1,5 +1,5 @@
-## Welcome to GitHub Pages
 
+Ryogo Funabiki's First CS193 Homework# 
 Hello World!!
 
 ### Markdown
