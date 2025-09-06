@@ -3,6 +3,11 @@ Ryogo Funabiki's First CS193 Homework
 # 
 Hello World!!
 
+# Favorite things about CS193
+- everybody is super friendly
+- Everything is super new to me
+- Makes me feel tech savvy
+  
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -17,10 +22,6 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-# Favorite things about CS193
-- everybody is super friendly
-- Everything is super new to me
-- Makes me feel tech savvy
 1. Numbered
 2. List
 
